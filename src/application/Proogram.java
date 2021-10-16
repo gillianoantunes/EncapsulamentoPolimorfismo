@@ -67,7 +67,7 @@ public class Proogram {
 			// se for outro tipo de produto ele chama o metodo sobreposto
 			System.out.println(p.etiquetaPreco() + "\n");
 		}
-		
+		sc.close();
 	}
 
 }
